@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungjason&label=Profile%20views&color=a314f0&style=flat" alt="trungjason" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trungjason" alt="trungjason" /></a> </p>
-
 - 🔭 I’m currently working on **TDTU Social Media Application**
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, .NET**
