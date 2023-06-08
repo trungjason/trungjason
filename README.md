@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungjason&label=Profile%20views&color=a314f0&style=flat" alt="trungjason" /> </p>
 
-- 🔭 I’m currently working on **TDTU Social Media Application**
-
-- 🌱 I’m currently learning **ReactJS, TypeScript, .NET**
+- 🌱 I’m currently learning **Angular, TypeScript, .NET**
 
 - 👨‍💻 All of my projects are available at [https://trungjason-portfolio.vercel.app](https://trungjason-portfolio.vercel.app)
 
